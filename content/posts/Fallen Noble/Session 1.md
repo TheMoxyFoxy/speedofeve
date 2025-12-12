@@ -49,3 +49,5 @@ I let out a sigh of relief. After I ended comms, of course. I bring the ship int
 I make my way to the front, paying 50 Zenits as I look to the town before me. It's not anything remarkable. In fact, it seems to be struggling. Some buildings are in disrepair, and the peoples clothes seem more practical than fashionable. I take a deep breath in, fresh air, free from the rancid air of nobility. A new beginning. I can be anything I want to be.
 
 I can be me.
+
+{{< comments >}}

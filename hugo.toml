@@ -3,5 +3,9 @@ languageCode = 'en-us'
 title = 'Speed of Eve'
 theme = 'book'
 
+[services]
+  [services.utterances]
+    repo = 'https://github.com/TheMoxyFoxy/speedofeve'
+
 [params]
-  BookSection = 'pages'
+  BookSection = 'posts'
